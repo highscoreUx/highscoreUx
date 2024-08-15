@@ -1,27 +1,31 @@
-<h1 align="center">Hi 👋, I'm Abdulbasit Oyesiji</h1>
-<h3 align="center">A full-stack developer and UX designer with a passion for crafting seamless digital experiences. My work is driven by a blend of creativity and technical expertise, aimed at solving real-world problems through innovative and user-centered design.</h3>
+# Abdulbasit Oyesiji
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=highscoreux&label=Profile%20views&color=0e75b6&style=flat" alt="highscoreux" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhighscoreux%2Fhighscoreux&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ux_abdulbasit)](https://twitter.com/ux_abdulbasit)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasit-oyesiji/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ux_abdulbasit/)](https://www.instagram.com/ux_abdulbasit)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:boyesiji@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.abdul-basit.com.ng)](https://www.abdul-basit.com.ng)
+[![Github](https://img.shields.io/github/followers/highscoreux?label=Follow&style=social)](https://github.com/highscoreux)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=highscoreux" alt="highscoreux" /></a> </p>
+- 💻 A full-stack developer and UX designer with a passion for crafting seamless digital experiences. My work is driven by a blend of creativity and technical expertise, aimed at solving real-world problems through innovative and user-centered design.
+- 📫 How to reach me: hello@abdulbasit.com.ng
 
-<p align="left"> <a href="https://twitter.com/ux_abdulbasit" target="blank"><img src="https://img.shields.io/twitter/follow/ux_abdulbasit?logo=twitter&style=for-the-badge" alt="ux_abdulbasit" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.abdul-basit.com.ng](https://www.abdul-basit.com.ng)
+### 🖥 Skills
 
-- 📫 How to reach me **boyesiji@gmail.com**
+- User Experience Design
+- User Research
+- Design System
+- Fullstack Development
+### ⚙️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ux_abdulbasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ux_abdulbasit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulbasit-oyesiji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulbasit-oyesiji" height="30" width="40" /></a>
-</p>
+![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=social&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=social&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=social&logo=Next.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=social&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Supabase-05122A?style=social&logo=Supabase&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=social&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=social&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=social&logo=Node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=social&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-Tailwindcss-05122A?style=social&logo=Tailwindcss&color=353535) ![Bootstrap](https://img.shields.io/badge/-Figma-05122A?style=social&logo=Figma&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=social&logo=Redux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Electron-05122A?style=social&logo=Electron&color=353535)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highscoreux&show_icons=true&locale=en&layout=compact" alt="highscoreux" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=highscoreux&" alt="highscoreux" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highscoreux&show_icons=true&locale=en&layout=compact" alt="highscoreux" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=highscoreux&show_icons=true&locale=en" alt="highscoreux" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=highscoreux&" alt="highscoreux" /></p>
+---
